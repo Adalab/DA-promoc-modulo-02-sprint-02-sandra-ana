@@ -1,4 +1,4 @@
-,year,type,country,activity,age,species_,mes,deceso,genero
+,year,type,country,activity,age,species,month,fatal,gender
 0,2018,Boating,usa,Paddling,57,White shark,Jun,N,F
 1,2018,Unprovoked,brazil,Swimming,18,Tiger shark,Jun,Y,M
 2,2018,Unprovoked,usa,Walking,15,"Bull shark, 6'",May,N,M

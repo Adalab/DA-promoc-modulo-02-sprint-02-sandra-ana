@@ -1,4 +1,4 @@
-,type,country,activity,species_,mes,deceso,genero,year,age
+,type,country,activity,species,month,fatal,gender,year,age
 0,Boating,usa,Paddling,White,Jun,N,F,2018.0,57.0
 1,Unprovoked,brazil,Swimming,Tiger,Jun,Y,M,2018.0,18.0
 2,Unprovoked,usa,Walking,Bull,May,N,M,2018.0,15.0
