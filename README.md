@@ -36,13 +36,6 @@ Este repositorio contiene nuestro trabajo realizado en el modulo 2:
             05. Carga II - Clases y Funciones BBDD e inseción
             06. Ejecutable - Pipeline ETL
 
-      
-      
-      4.Estadística :
-            01. Introducción
-            02. Cuartiles, estadística con pandas y tabla de frecuencias
-            03. ablas de contingencia, correlación, sesgos e intervalos de confianza
-            04. Repaso conceptos
 
               
 
