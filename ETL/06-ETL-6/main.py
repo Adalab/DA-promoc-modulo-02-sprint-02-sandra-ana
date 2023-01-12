@@ -74,7 +74,7 @@ ata.crear_tabla(tabla_paises)
 ata.crear_tabla(tabla_clima)
 ata.crear_tabla(tabla_ataques)
 
-df_ataques = pd.read_csv('../data/06-tiburon_4.csv')
+df_ataques = pd.read_csv('../../data/06-tiburon_4.csv')
 
 print("csv cargado")
 
